@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: '/uploads/player-rotorink.jpg'
+title: Centers to Target in 2019
 date: 2019-01-03
 categories:
-- photography
-- yellow
 project_bg_color: ''
-project_fg_color: ''
-
+project_fg_color: '#EDEDED'
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+
+![](/uploads/player-rotorink.jpg)

@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: '/uploads/net-rotorink.jpg'
+title: Goalie Rankings
 date: 2019-01-04
 categories:
-- photography
-- yellow
 project_bg_color: ''
-project_fg_color: "#FDC70D"
-
+project_fg_color: '#EDEDED'
 ---
-![](/uploads/ian-dooley-281897-unsplash.jpg)
+
+![](/uploads/net-rotorink.jpg)
