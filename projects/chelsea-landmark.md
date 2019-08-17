@@ -3,6 +3,9 @@ date: 2019-05-16
 year: 2019
 title: Top DFS Plays for Wednesday
 thumbnail: '/uploads/blades-rotorink.jpg'
+categories:
+  - photography
+  - yellow
 project_bg_color: ''
 project_fg_color: '#EDEDED'
 ---
