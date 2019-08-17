@@ -4,8 +4,8 @@ year: 2019
 title: Top DFS Plays for Wednesday
 thumbnail: '/uploads/blades-rotorink.jpg'
 categories:
-  - photography
-  - yellow
+  - dfs
+  - hockey
 project_bg_color: ''
 project_fg_color: '#EDEDED'
 ---
