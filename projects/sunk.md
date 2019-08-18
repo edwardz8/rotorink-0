@@ -5,7 +5,7 @@ categories:
   - dfs
   - hockey
 date: 2019-02-06
-project_bg_color: '#191919'
+project_bg_color: ''
 project_fg_color: '#191919'
 ---
 
