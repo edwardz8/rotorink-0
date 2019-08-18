@@ -10,11 +10,11 @@
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
-            <input type="hidden" name="form-name" />
+            <input type="text" name="form-name" value="contact" />
           </div>
           <div>
             <label for="email" class="label">Your email</label>
-            <input type="hidden" name="form-name" />
+            <input type="email" name="form-name" value="contact" />
           </div>
         </div>
 
