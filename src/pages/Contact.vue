@@ -10,18 +10,18 @@
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
-            <input type="text" name="name" />
+            <input type="hidden" name="form-name" />
           </div>
           <div>
             <label for="email" class="label">Your email</label>
-            <input type="email" name="email" />
+            <input type="hidden" name="form-name" />
           </div>
         </div>
 
-        <div class="message">
+        <!-- <div class="message">
           <label for="message" class="label">Message</label>
           <textarea name="message"></textarea>
-        </div>
+        </div>-->
 
         <button type="submit" class="button">Submit form</button>
       </form>
