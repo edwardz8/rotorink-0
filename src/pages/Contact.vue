@@ -6,15 +6,16 @@
         <p>Leave me a note with any questions you might have.</p>
       </div>
 
-      <form class="contact-form" name="contact" netlify>
+      <form class="contact-form" name="contact" method="post" netlify>
+        <input type="hidden" name="form-name" value="contact" />
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
-            <input type="text" name="form-name" value="contact" />
+            <input type="text" name="name" />
           </div>
           <div>
             <label for="email" class="label">Your email</label>
-            <input type="email" name="form-name" value="contact" />
+            <input type="email" name="email" />
           </div>
         </div>
 
