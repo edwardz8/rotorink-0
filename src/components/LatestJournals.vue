@@ -1,27 +1,27 @@
 <template>
-    <div>
-        <div class="latest-journals-heading container">
-        <span class="label">Latest and greatest</span>
-        </div>
-        <div class="latest-journals">
-        <div class="container">
-            <g-link :to="item.node.path" class="journal" v-for="item in journals" :key="item.node.id">
-              <h3 class="journal-title">{{ item.node.title }}</h3>
-            </g-link>
-        </div>
-        </div>
+  <div>
+    <div class="latest-journals-heading container">
+      <span class="label">Recent Player News</span>
     </div>
+    <div class="latest-journals">
+      <div class="container">
+        <g-link :to="item.node.path" class="journal" v-for="item in journals" :key="item.node.id">
+          <h3 class="journal-title">{{ item.node.title }}</h3>
+        </g-link>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>
 export default {
-    props: {
-        journals: {
-            type: Array,
-            required: true
-        }
+  props: {
+    journals: {
+      type: Array,
+      required: true
     }
-}
+  }
+};
 </script>
 
 <style scoped>
@@ -108,5 +108,4 @@ export default {
     border-bottom: 1px solid var(--color-base-1);
   }
 }
-
 </style>
