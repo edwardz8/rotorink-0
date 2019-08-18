@@ -1,10 +1,9 @@
 ---
 date: 2019-05-07
-title: Gridsome with Forestry CMS starter-kit
-author: Nichlas W. Andersen
-excerpt: Get up and running with a fresh macOS Mojave install
-
+title: Johnny Gaudreau
+thumbnail: '/uploads/johnny.svg'
+author: Zach Edwards
+excerpt: Gaudreau records 3 assists and 2 goals in win
 ---
-#### My blog post
 
-Empty post
+Gaudreau records 3 assists and 2 goals in win over Edmonton
