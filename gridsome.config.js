@@ -5,7 +5,7 @@ module.exports = {
   siteName: 'rotorink',
   siteUrl: `https://www.rotorink.netlify.com`,
   host: '0.0.0.0',
-  titleTemplate: '%s - NWA',
+  titleTemplate: '%s - DFS',
   siteDescription: 'fantasy hockey news',
   plugins: [
     {
