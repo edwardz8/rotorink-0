@@ -3,7 +3,7 @@
     <div class="container">
       <div class="contact-header">
         <h1 class="contact-title">Mailing List</h1>
-        <p>Leave me a note with any questions you might have.</p>
+        <p>Leave your email to have new articles and breaking updates delivered straight to your inbox.</p>
       </div>
 
       <form class="contact-form" name="contact" method="post" netlify>
