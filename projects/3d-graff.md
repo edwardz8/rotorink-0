@@ -9,4 +9,6 @@ project_bg_color: ''
 project_fg_color: '#FDC70D'
 ---
 
+These are the rankings for the top goalies to draft
+
 ![](/uploads/net-rotorink.jpg)
