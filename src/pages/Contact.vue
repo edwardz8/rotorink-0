@@ -19,10 +19,10 @@
           </div>
         </div>
 
-        <!-- <div class="message">
+        <div class="message">
           <label for="message" class="label">Message</label>
           <textarea name="message"></textarea>
-        </div>-->
+        </div>
 
         <button type="submit" class="button">Submit form</button>
       </form>
