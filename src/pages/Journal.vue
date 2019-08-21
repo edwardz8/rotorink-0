@@ -12,9 +12,12 @@
       :key="item.node.id"
       class="journal-post"
     >
-      <div class="container journal">
-        <h2 class="journal-title">{{ item.node.title }}</h2>
-        <p class="journal-excerpt">{{ item.node.excerpt }}</p>
+      <div class="container journal journal-group">
+        <g-image :src="item.node.thumbnail" class="thumbnail"></g-image>
+        <div class="journal-text-group">
+          <h4 class="journal-title">{{ item.node.title }}</h4>
+          <p class="journal-excerpt">{{ item.node.excerpt }}</p>
+        </div>
       </div>
     </g-link>
   </Layout>
@@ -27,6 +30,7 @@ query Journal {
       node {
         id
         path
+				thumbnail (quality: 90)
         title
         excerpt
       }
@@ -40,13 +44,17 @@ export default {};
 </script>
 
 <style scoped>
-.container.journal {
-  max-width: 720px;
+.thumbnail {
+  height: 190px;
 }
 .journal-hero {
   padding: 4rem 0;
   text-align: center;
   color: var(--color-base-1);
+}
+.journal-group {
+  display: flex;
+  margin-left: -0.1rem;
 }
 .journal-header {
   font-size: 3rem;
@@ -54,9 +62,11 @@ export default {};
   padding: 0;
   margin: 0;
 }
+.journal-text-group {
+  margin-left: -4rem;
+}
 .journal-post {
   display: block;
-  padding: 2rem 0;
   text-decoration: none;
   transition: background 0.5s ease;
 }
@@ -67,7 +77,7 @@ export default {};
   background-color: var(--color-base-1);
 }
 .journal-post:hover > * {
-  transform: translateX(4rem);
+  transform: translateX(3rem);
 }
 .journal-post h1,
 .journal-post h2 {
@@ -84,13 +94,19 @@ export default {};
 
 @media (min-width: 560px) {
   .journal-post {
-    padding: 3rem 0;
+    padding: 1rem 0;
   }
 }
 
 @media (min-width: 860px) {
   .journal-post {
-    padding: 5rem 0;
+    padding: 1rem 0;
+  }
+}
+
+@media (max-width: 560px) {
+  .journal-excerpt {
+    display: none;
   }
 }
 </style>
