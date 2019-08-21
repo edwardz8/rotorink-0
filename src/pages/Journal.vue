@@ -108,5 +108,16 @@ export default {};
   .journal-excerpt {
     display: none;
   }
+  .thumbnail {
+    height: 140px;
+  }
+  .journal-group {
+    display: flex;
+    margin-left: -4rem;
+  }
+  .journal-text-group {
+    margin-top: -1rem;
+    padding-left: -2rem;
+  }
 }
 </style>
