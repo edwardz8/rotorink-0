@@ -113,7 +113,7 @@ export default {};
   }
   .journal-group {
     display: flex;
-    margin-left: -4rem;
+    margin-left: -8rem;
   }
   .journal-text-group {
     margin-top: -1rem;
