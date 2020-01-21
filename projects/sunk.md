@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/baseball_image_1.jpg"
-title: Top Waiver Wire Pick-ups
+title: Top MLB Best Ball Picks
 categories:
 - dfs
 - hockey
