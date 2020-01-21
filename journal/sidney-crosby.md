@@ -7,5 +7,3 @@ excerpt: Fleetwood finishes runner-up again at Sony Open
 
 ---
 ![](/uploads/tommy_fleetwood.svg)Fleetwood finishes runner-up again at Sony Open
-
-![](/uploads/crosby.svg)![](/uploads/tommy_fleetwood.svg)
