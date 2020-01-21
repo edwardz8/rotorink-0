@@ -1,11 +1,11 @@
 ---
 date: 2019-05-07
-title: Sidney Crosby
+title: Tommy Fleetwood
 thumbnail: "/uploads/crosby.svg"
-author: Zach Edwards
-excerpt: Crosby set to rest Monday against the Islanders
+author: Nichlas W. Andersen
+excerpt: Fleetwood finishes runner-up again at Sony Open
 
 ---
-Crosby set to rest Monday against the Islanders
+![](/uploads/tommy_fleetwood.svg)Fleetwood finishes runner-up again at Sony Open
 
-![](/uploads/crosby.svg)
+![](/uploads/crosby.svg)![](/uploads/tommy_fleetwood.svg)
