@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: 'rotorink',
-  siteUrl: `https://www.rotorink.netlify.com`,
+  siteName: 'rotosleep',
+  siteUrl: `https://www.rotosleep.com`,
   host: '0.0.0.0',
   titleTemplate: '%s - DFS',
-  siteDescription: 'fantasy hockey news',
+  siteDescription: 'daily fantasy sports news',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

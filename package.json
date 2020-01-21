@@ -1,5 +1,5 @@
 {
-  "name": "rotorink-0",
+  "name": "rotosleep",
   "private": true,
   "scripts": {
     "build": "gridsome build",
