@@ -36,11 +36,11 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
-- projects/skates-puck.md
-- projects/chelsea-landmark.md
-- projects/sunk.md
-- projects/ios-concept.md
-- projects/3d-graff.md
 - projects/3d-graff-blue.md
-- projects/toronto.md
+- projects/3d-graff.md
+- projects/chelsea-landmark.md
 - projects/hanging-skates.md
+- projects/ios-concept.md
+- projects/skates-puck.md
+- projects/sunk.md
+- projects/toronto.md
