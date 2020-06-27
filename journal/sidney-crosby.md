@@ -1,9 +1,11 @@
 ---
 date: 2019-05-07
-title: Tommy Fleetwood
+title: Sidney Crosby
 thumbnail: "/uploads/crosby.svg"
-author: Nichlas W. Andersen
-excerpt: Fleetwood finishes runner-up again at Sony Open
+author: Zach Edwards
+excerpt: Crosby gains two assists in loss
 
 ---
-![](/uploads/tommy_fleetwood.svg)Fleetwood finishes runner-up again at Sony Open
+Crosby gains two assists in loss
+
+![](/uploads/crosby.svg)

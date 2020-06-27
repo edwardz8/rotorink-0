@@ -2,8 +2,8 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: 'rotosleep',
-  siteUrl: `https://www.rotosleep.com`,
+  siteName: 'rotorink',
+  siteUrl: `https://www.rotorink.com`,
   host: '0.0.0.0',
   titleTemplate: '%s - DFS',
   siteDescription: 'daily fantasy sports news',

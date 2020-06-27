@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/baseball_image_2.jpg"
-title: Infielders to Target in Best Ball Drafts
+thumbnail: "/uploads/toronto-rotorink.jpg"
+title: Will Toronto luck out with top overall pick
 categories:
 - dfs
 - hockey

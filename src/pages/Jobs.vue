@@ -5,7 +5,7 @@
         <h1 class="contact-title">Jobs</h1>
 
         <p>
-          RotoSleep is looking for talented and driven Fantasy Sports Writers to craft content for our digital platform.
+          RotoRink is looking for talented and driven Fantasy Sports Writers to craft content for our digital platform.
           The ideal candidate will possess good writing and research skills and take pride in their work.
           The applicant will be a team player, an active daily fantasy sports player and be able to give and receive constructive feedback.
           You should be a stickler for meeting deadlines and have the willingness to stay up-to-date with breaking hockey news.
@@ -22,7 +22,7 @@
         <hr />
         <p>Player Update Writers will craft breaking player news. You should be a stickler for meeting deadlines and have the willingness to stay up-to-date with breaking sports news.</p>
 
-        <p>Send all inquiries, explaining why you feel you would be the perfect fit, to: rotosleephq@gmail.com</p>
+        <p>Send all inquiries, explaining why you feel you would be the perfect fit, to: rotorinkhq@gmail.com</p>
       </div>
     </div>
   </Layout>

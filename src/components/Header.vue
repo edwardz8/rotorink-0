@@ -6,7 +6,7 @@
     <div class="container">
       <div class="left">
         <g-link :to="{ name: 'home' }" class="home-link">
-          <img src="../../static/bed4.png" :alt="settings.site_name" class="logo" />
+          <img src="../../static/rink.png" :alt="settings.site_name" class="logo" />
         </g-link>
       </div>
       <nav class="nav right">
