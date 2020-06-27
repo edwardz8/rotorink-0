@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/toronto-rotorink.jpg"
-title: No Toronto will not lose for chance at top overall pick
+title: No Toronto will not throw away play-in game for shot at top overall pick
 categories:
 - dfs
 - hockey

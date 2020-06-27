@@ -4,7 +4,7 @@ title: DFS DraftKings Picks for Tuesday
 categories:
 - dfs
 - hockey
-date: 2019-01-03
+date: 2020-01-19
 project_bg_color: ''
 project_fg_color: "#191919"
 

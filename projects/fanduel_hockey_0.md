@@ -4,7 +4,7 @@ title: NHL DFS Fanduel Tourney
 categories:
 - dfs
 - hockey
-date: 2019-01-03
+date: 2020-01-12
 project_bg_color: ''
 project_fg_color: "#191919"
 

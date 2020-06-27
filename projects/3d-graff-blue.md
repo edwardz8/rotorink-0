@@ -1,7 +1,7 @@
 ---
 thumbnail: '/uploads/blueline-rotorink.jpg'
 title: Top Defensemen Plays for Friday
-date: 2017-01-04
+date: 2020-01-01
 categories:
   - dfs
   - hockey
