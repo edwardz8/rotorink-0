@@ -5,8 +5,8 @@ module.exports = {
   siteName: 'rotorink',
   siteUrl: `https://www.rotorink.com`,
   host: '0.0.0.0',
-  titleTemplate: '%s - DFS',
-  siteDescription: 'daily fantasy sports news',
+  titleTemplate: '%s - Hockey Stats & Updates',
+  siteDescription: 'daily fantasy hockey news, stats & updates',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
