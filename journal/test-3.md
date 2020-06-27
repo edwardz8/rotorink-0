@@ -1,5 +1,5 @@
 ---
-date: 2019-05-07
+date: 2020-06-12
 title: Johnny Gaudreau
 thumbnail: '/uploads/johnny.svg'
 author: Zach Edwards

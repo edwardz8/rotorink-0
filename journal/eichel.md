@@ -1,5 +1,5 @@
 ---
-date: 2019-05-07
+date: 2019-02-07
 title: Jack Eichel
 thumbnail: "/uploads/Jack_Eichel.svg"
 author: Zach Edwards
