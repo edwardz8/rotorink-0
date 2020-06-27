@@ -12,7 +12,7 @@
       <nav class="nav right">
         <g-link class="nav__link" to="/journal">Player News</g-link>
         <g-link class="nav__link" to="/contact">Mailing List</g-link>
-        <g-link class="nav__link" to="/jobs">Write For Us</g-link>
+        <g-link class="nav__link write_for_us" to="/jobs">Write For Us</g-link>
       </nav>
     </div>
   </header>
@@ -79,5 +79,11 @@ export default {
 }
 .nav > .active {
   border-color: inherit;
+}
+
+@media only screen and (max-width: 600px) {
+  .write_for_us {
+    display: none;
+  }
 }
 </style>
