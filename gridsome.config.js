@@ -5,8 +5,8 @@ module.exports = {
   siteName: 'rotorink',
   siteUrl: `https://www.rotorink.com`,
   host: '0.0.0.0',
-  titleTemplate: '%s - Hockey Stats & Updates',
-  siteDescription: 'daily fantasy hockey news, stats & updates',
+  titleTemplate: '%s - Fantasy Hockey Stats & Updates',
+  siteDescription: 'fantasy hockey stats, news & updates',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -31,7 +31,7 @@ module.exports = {
           externalLinksRel: ['nofollow', 'noopener', 'noreferrer']
         }
       }
-    }
+    },
   ],
   transformers: {
     remark: {

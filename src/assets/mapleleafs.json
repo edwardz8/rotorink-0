@@ -1,0 +1,73 @@
+[{
+    "player_name": "Rory McIlroy",
+    "id": 1,
+    "dg_rank": 1,
+    "dg_last_week": 1,
+    "owgr_rank": 2,
+    "owgr_last_week": 2
+  },
+  {
+    "player_name": "Hideki Matsuyama",
+    "id": 5,
+    "dg_rank": 5,
+    "dg_last_week": 5,
+    "owgr_rank": 21,
+    "owgr_last_week": 22
+  },
+  {
+    "player_name": "Xander Schauffele",
+    "id": 6,
+    "dg_rank": 6,
+    "dg_last_week": 6,
+    "owgr_rank": 8,
+    "owgr_last_week": 8
+  },
+  {
+    "player_name": "Justin Thomas",
+    "id": 3,
+    "dg_rank": 3,
+    "dg_last_week": 3,
+    "owgr_rank": 4,
+    "owgr_last_week": 4
+  },
+  {
+    "player_name": "Jon Rahm",
+    "id": 2,
+    "dg_rank": 2,
+    "dg_last_week": 2,
+    "owgr_rank": 3,
+    "owgr_last_week": 3
+  },
+  {
+    "player_name": "Tiger Woods",
+    "id": 7,
+    "dg_rank": 7,
+    "dg_last_week": 7,
+    "owgr_rank": 7,
+    "owgr_last_week": 8
+  },
+  {
+    "player_name": "Webb Simpson",
+    "id": 4,
+    "dg_rank": 4,
+    "dg_last_week": 4,
+    "owgr_rank": 11,
+    "owgr_last_week": 12
+  },
+  {
+    "player_name": "Patrick Cantlay",
+    "id": 8,
+    "dg_rank": 8,
+    "dg_last_week": 8,
+    "owgr_rank": 6,
+    "owgr_last_week": 7
+  },
+  {
+    "player_name": "Tommy Fleetwood",
+    "id": 9,
+    "dg_rank": 9,
+    "dg_last_week": 10,
+    "owgr_rank": 10,
+    "owgr_last_week": 10
+  }
+]
