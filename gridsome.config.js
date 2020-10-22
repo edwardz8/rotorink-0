@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://www.rotorink.com`,
   host: '0.0.0.0',
   titleTemplate: '%s - Fantasy Hockey Stats & Updates',
-  siteDescription: 'fantasy hockey stats, news & updates',
+  siteDescription: 'fantasy hockey stats, news & updates. tech blog',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
